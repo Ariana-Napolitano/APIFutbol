@@ -27,3 +27,32 @@
 /home/rodrigo/Escritorio/Futbol/obj/Debug/net5.0/ref/Futbol.dll
 /home/rodrigo/Escritorio/Futbol/obj/Debug/net5.0/Futbol.pdb
 /home/rodrigo/Escritorio/Futbol/obj/Debug/net5.0/Futbol.genruntimeconfig.cache
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/appsettings.Development.json
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/appsettings.json
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/Futbol
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/Futbol.deps.json
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/Futbol.runtimeconfig.json
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/Futbol.runtimeconfig.dev.json
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/Futbol.dll
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/ref/Futbol.dll
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/Futbol.pdb
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ari/Escritorio/API Futbol/APIFutbol/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.csproj.AssemblyReference.cache
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.GeneratedMSBuildEditorConfig.editorconfig
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.AssemblyInfoInputs.cache
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.AssemblyInfo.cs
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.csproj.CoreCompileInputs.cache
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.MvcApplicationPartsAssemblyInfo.cs
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.MvcApplicationPartsAssemblyInfo.cache
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/staticwebassets/Futbol.StaticWebAssets.Manifest.cache
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/staticwebassets/Futbol.StaticWebAssets.xml
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/scopedcss/bundle/Futbol.styles.css
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.RazorTargetAssemblyInfo.cache
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.csproj.CopyComplete
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.dll
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/ref/Futbol.dll
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.pdb
+/home/ari/Escritorio/API Futbol/APIFutbol/obj/Debug/net5.0/Futbol.genruntimeconfig.cache

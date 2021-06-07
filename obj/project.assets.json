@@ -193,19 +193,19 @@
     ]
   },
   "packageFolders": {
-    "/home/rodrigo/.nuget/packages/": {}
+    "/home/ari/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rodrigo/Escritorio/Futbol/Futbol.csproj",
+      "projectUniqueName": "/home/ari/Escritorio/API Futbol/APIFutbol/Futbol.csproj",
       "projectName": "Futbol",
-      "projectPath": "/home/rodrigo/Escritorio/Futbol/Futbol.csproj",
-      "packagesPath": "/home/rodrigo/.nuget/packages/",
-      "outputPath": "/home/rodrigo/Escritorio/Futbol/obj/",
+      "projectPath": "/home/ari/Escritorio/API Futbol/APIFutbol/Futbol.csproj",
+      "packagesPath": "/home/ari/.nuget/packages/",
+      "outputPath": "/home/ari/Escritorio/API Futbol/APIFutbol/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+        "/home/ari/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -252,7 +252,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
       }
     }
   }

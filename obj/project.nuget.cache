@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "3xwLWr/eBuyEYKLF+rLdYqucULFz6H9hSrHSrRFwVjlC2/WrbnmXuB1Uvbl/AFudg0VPjsxoNGXh7z0lu3g1dw==",
+  "dgSpecHash": "l1D8l1KAX80FxxgM5aEKynX6flHCWJpwuiqYHEWrqBiXB5i1a38ghD6kXOz0Sr0vizRF7i5jBXOTIgsuiXlFaw==",
   "success": true,
-  "projectFilePath": "/home/rodrigo/Escritorio/Futbol/Futbol.csproj",
+  "projectFilePath": "/home/ari/Escritorio/API Futbol/APIFutbol/Futbol.csproj",
   "expectedPackageFiles": [
-    "/home/rodrigo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/home/rodrigo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/home/rodrigo/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "/home/rodrigo/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "/home/rodrigo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/home/rodrigo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "/home/ari/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/ari/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/ari/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/ari/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/ari/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/ari/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }
