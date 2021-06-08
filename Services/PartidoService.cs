@@ -7,6 +7,7 @@ using Microsoft.Extensions.Logging;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using Futbol.Model;
+using Futbol.DAO;
 namespace Futbol.Services
 {
     public class PartidoService
@@ -22,16 +23,7 @@ namespace Futbol.Services
 
         public IEnumerable<Partido> GetAll()
         {
-
-            EquipoConGoles Boca = new EquipoConGoles("Boca", 3);
-
-            EquipoConGoles River = new EquipoConGoles("River", 1);
-
-            Partido BocaRiver = new Partido(Boca, River, new DateTime());
-
-            List<Partido> respuesta = new List<Partido>() { BocaRiver };
-
-            return respuesta;
+            return PartidosDao.getInstance().getAll();
         }
     }
 }
